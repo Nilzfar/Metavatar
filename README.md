@@ -1,10 +1,8 @@
-# Meta Avatar and Photon Unity Integration
-
-This project integrates Meta Avatars and the new Meta SDK, all in one, with Photon Unity for real-time interaction. The project is built using Unity version 2022.3.30.
-
+# Meta Avatar Networking
 ## Overview
 
-This project demonstrates the use of Meta Avatars and the Meta SDK to create a VR environment with real-time interactions powered by Photon Unity. Users can create and interact with avatars in a shared virtual space.
+This project integrates Meta Avatars and the new Meta SDK, all in one, with Photon Unity for real-time interaction. Users can create and interact with avatars in a shared virtual space.
+
 
 ## Requirements
 
